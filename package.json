@@ -1,0 +1,14 @@
+
+{
+    "name": "node-server",
+    "version": "1.0.0",
+    "main": "server.js", 
+    "scripts": {
+        "dev": "node --watch server.js"
+    },
+    "keywords": [],
+    "author": "Alexandre Rebouças",
+    "license": "ISC",
+    "description": "Proposta de servidor web criado em sala de auça. Turma FS-26, Digital College Sul.",
+    "type": "module"
+}
